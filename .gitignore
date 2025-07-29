@@ -1,0 +1,11 @@
+/cropped
+/data/gigaspora
+/data/rhizophagus
+/results/csv
+/results/output_images
+/results/plots
+/results/excel
+/notebooks/.ipynb_checkpoints
+notebooks/graph.pickle
+notebooks/img_process.npz
+/notebooks/__pycache__
