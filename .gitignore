@@ -9,3 +9,4 @@
 notebooks/graph.pickle
 notebooks/img_process.npz
 /notebooks/__pycache__
+/tests
