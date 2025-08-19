@@ -10,3 +10,4 @@ notebooks/graph.pickle
 notebooks/img_process.npz
 /notebooks/__pycache__
 /tests
+.ipynb_checkpoints/README-checkpoint.MD
